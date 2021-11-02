@@ -1,10 +1,10 @@
-/* codded by Amal
-reedited by Amalser
+/* codded by basi
+reedited by Basi
 use this git under copyright
 dont change credit
 */
 
-const Amalser= require('../events');
+const teamhlk= require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
@@ -154,9 +154,9 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
-*githublink* : https://github.com/cyberchekuthan/Amalser_v2
+*githublink* : https://github.com/Basith2/TeamHlk
 
-*audio commads* : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads
+*audio commads* : https://github.com/Basith2/TeamHlk/tree/master/uploads
 `}) 
 
 }));
