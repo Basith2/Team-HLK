@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Basith2">Team-Hlk</a> to make it 
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## Click Watsapp logo to join our watsapp group then you will get password👇
 
  [![ANY DOUBT REFER IT](https://github.com/Basith2/TeamHlk/blob/master/photo/Hlkwatsapp.jpg)](https://chat.whatsapp.com/GyR4376DREQJu1z1oThoMu)
 
