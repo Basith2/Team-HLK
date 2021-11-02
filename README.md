@@ -7,7 +7,7 @@
 <img src=https://github.com/Basith2/Team-Hlk/blob/master/photo/hlk.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/Basith2"><img title="Author" src="https://img.shields.io/badge/Author-Basi-basith2/teamhlk?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Basith2"><img title="Author" src="https://img.shields.io/badge/Author-Basi-Basith2/Team Hlk?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
